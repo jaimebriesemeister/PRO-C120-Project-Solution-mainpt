@@ -1,7 +1,7 @@
 {"intents": [
     {"tag": "saudacao",
-        "patterns": ["Ola!!", "Como você esta?", "Tem alguem aí?","Oi","Oie", "Alo"],
-        "responses": ["Ola!!, obrigado por perguntar.", "Que bom ver você novamente.","Ola, como posso ajudar?"]
+        "patterns": ["Ola!!", "Como voce esta?", "Tem alguem ai?","Oi","Oie", "Alo"],
+        "responses": ["Ola!!, obrigado por perguntar.", "Que bom ver voce novamente.","Ola, como posso ajudar?"]
     },
     {"tag": "despedida",
         "patterns": ["Tchau", "Nos vemos depois", "Adeus", "Foi bom falar com voce, tchau","Ate a proxima"],
@@ -13,10 +13,10 @@
     },
     {"tag": "sem_resposta",
         "patterns": [""],
-        "responses": ["Desculpe, nao consegui entender você.", "Por favor de-me mais informacoes.", "Acho que nao entendi."]
+        "responses": ["Desculpe, nao consegui entender voce.", "Por favor de-me mais informacoes.", "Acho que nao entendi."]
     },
     {"tag": "opcoes",
-     "patterns": ["Como voce poderia me ajudar?", "Que ajuda voce oferece?", "Como você pode ser util?"],
+     "patterns": ["Como voce poderia me ajudar?", "Que ajuda voce oferece?", "Como voce pode ser util?"],
      "responses": ["Posso mostrar a voce alguns aparelhos eletronicos mais recentes" , 
                    "Eu posso lhe mostrar alguns smartphones muito legais" , 
                    "Por que eu nao lhe mostro alguns fones de ouvido incriveis?" , 
@@ -24,7 +24,7 @@
  
     },
     {"tag": "produtos",
-        "patterns": ["Voeê pode me mostrar todos os seus produtos?", "Quais sao todos os produtos que voce tem?" , 
+        "patterns": ["Voce pode me mostrar todos os seus produtos?", "Quais sao todos os produtos que voce tem?" , 
                     "O que voce esta vendendo?"],
         "responses": ["Sim, eu tenho uma grande variedade de Smartphones, Cameras Digitais, Fones de Ouvido e Videogames"]
     
