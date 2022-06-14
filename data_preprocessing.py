@@ -42,7 +42,7 @@ def get_stem_words(words, ignore_words):
 Lista de palavras-tronco classificadas para nosso conjunto de dados : 
 
 ['todos', 'alg', 'algue', 'sao', 'incrivel', 'ser', 'melhor', 'bluetooth', 'tchau', 'camera', 'pode', 'conversa', 
-'legal', 'poderia', 'digito', 'fazer', 'para', 'game', 'adeu', 'hter', 'ouvido', 'ola', 'ajudar', 'ei', 
+'legal', 'poderia', 'digito', 'fazer', 'para', 'game', 'adeu', 'ter', 'ouvido', 'ola', 'ajudar', 'ei', 
 'oi', 'ola', 'como', 'e', 'depois', 'recente', 'mim', 'mais', 'proximo', 'bom', 'fone', 'favor', 'popular', 
 'produto', 'fornecer', 'ver', 'vender', 'mostrar', 'smartphon', 'contar', 'obrigado', 'que', 'o', 'la', 
 'ate', 'vez', 'para', 'moda', 'video', 'que', 'qual', 'voce', 'seu']
