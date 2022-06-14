@@ -41,11 +41,11 @@ def get_stem_words(words, ignore_words):
 '''
 Lista de palavras-tronco classificadas para nosso conjunto de dados : 
 
-['all', 'ani', 'anyon', 'are', 'awesom', 'be', 'best', 'bluetooth', 'bye', 'camera', 'can', 'chat', 
-'cool', 'could', 'digit', 'do', 'for', 'game', 'goodby', 'have', 'headphon', 'hello', 'help', 'hey', 
-'hi', 'hola', 'how', 'is', 'later', 'latest', 'me', 'most', 'next', 'nice', 'phone', 'pleas', 'popular', 
-'product', 'provid', 'see', 'sell', 'show', 'smartphon', 'tell', 'thank', 'that', 'the', 'there', 
-'till', 'time', 'to', 'trend', 'video', 'what', 'which', 'you', 'your']
+['todos', 'alg', 'algue', 'sao', 'incrivel', 'ser', 'melhor', 'bluetooth', 'tchau', 'camera', 'pode', 'conversa', 
+'legal', 'poderia', 'digito', 'fazer', 'para', 'game', 'adeu', 'hter', 'ouvido', 'ola', 'ajudar', 'ei', 
+'oi', 'ola', 'como', 'e', 'depois', 'recente', 'mim', 'mais', 'proximo', 'bom', 'fone', 'favor', 'popular', 
+'produto', 'fornecer', 'ver', 'vender', 'mostrar', 'smartphon', 'contar', 'obrigado', 'que', 'o', 'la', 
+'ate', 'vez', 'para', 'moda', 'video', 'que', 'qual', 'voce', 'seu']
 
 '''
 
