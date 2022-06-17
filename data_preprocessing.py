@@ -89,7 +89,7 @@ def bag_of_words_encoding(stem_words, pattern_word_tags_list):
         # stemizando palavras padrões antes de criar o saco de palavras
         stemmed_pattern_word = get_stem_words(pattern_words, ignore_words)
 
-        # Codificação dos dados de entrada g 
+        # Codificação dos dados de entrada 
         for word in stem_words:            
             if word in stemmed_pattern_word:              
                 bag_of_words.append(1)
@@ -126,7 +126,7 @@ def preprocess_train_data():
   
     stem_words, tag_classes, word_tags_list = create_bot_corpus(words, classes, pattern_word_tags_list, ignore_words)
     
-    # Converta palavras tronco e classes para o formato de arquivo pickel do Python
+    # Converta as palavras-tronco e as classes para o formato de arquivo pickel do Python
     pickle.dump(stem_words, open('words.pkl','wb'))
     pickle.dump(tag_classes, open('classes.pkl','wb'))
 
